@@ -1,0 +1,272 @@
+[
+    {
+      "id": 1,
+      "name": "Pan Pacific",
+      "place_id": 1,
+      "image": "https://images.unsplash.com/photo-1596436889106-be35e843f974?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "rating": 4.5,
+      "price": "$30/Night",
+      "facilities": [
+        "Fitness center",
+        "Spa",
+        "Outdoor pool",
+        "Multiple dining options",
+        "Business center",
+        "Free Wi-Fi"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "The Westin",
+      "place_id": 2,
+      "image": "https://images.unsplash.com/photo-1596436889106-be35e843f974?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "rating": 4.3,
+      "price": "$39/Night",
+      "facilities": [
+        "Fitness center",
+        "Spa",
+        "Outdoor pool",
+        "Multiple dining options",
+        "Business center",
+        "Free Wi-Fi"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Six Seasons Hotel",
+      "place_id": 3,
+      "image": "https://images.unsplash.com/photo-1596436889106-be35e843f974?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "rating": 4.2,
+      "price": "$60/Night",
+      "facilities": [
+        "Rooftop pool",
+        "Fitness center",
+        "Multiple dining options",
+        "Business center",
+        "Free Wi-Fi"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Hotel Purbani",
+      "place_id": 4,
+      "image": "https://images.unsplash.com/photo-1596436889106-be35e843f974?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "rating": 3.8,
+      "price": "$29/Night",
+      "facilities": ["Restaurant", "Business center", "Free Wi-Fi"]
+    },
+    {
+      "id": 5,
+      "name": "Hotel Agrabad",
+      "place_id": 5,
+      "image": "https://images.unsplash.com/photo-1596436889106-be35e843f974?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "rating": 4.0,
+      "price": "$40/Night",
+      "facilities": [
+        "Fitness center",
+        "Outdoor pool",
+        "Multiple dining options",
+        "Business center",
+        "Free Wi-Fi"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Le Meridien",
+      "place_id": 6,
+      "image": "https://images.unsplash.com/photo-1596436889106-be35e843f974?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "rating": 4.5,
+      "price": "$33/Night",
+      "facilities": [
+        "Fitness center",
+        "Spa",
+        "Outdoor pool",
+        "Multiple dining options",
+        "Business center",
+        "Free Wi-Fi"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Radisson Blu",
+      "place_id": 1,
+      "image": "https://images.unsplash.com/photo-1596436889106-be35e843f974?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "rating": 4.4,
+      "price": "$44/Night",
+      "facilities": [
+        "Fitness center",
+        "Spa",
+        "Outdoor pool",
+        "Multiple dining options",
+        "Business center",
+        "Free Wi-Fi"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "InterContinental",
+      "place_id": 2,
+      "image": "https://images.unsplash.com/photo-1596436889106-be35e843f974?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "rating": 4.3,
+      "price": "$36/Night",
+      "facilities": [
+        "Fitness center",
+        "Spa",
+        "Outdoor pool",
+        "Multiple dining options",
+        "Business center",
+        "Free Wi-Fi"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Golden Tulip",
+      "place_id": 3,
+      "image": "https://images.unsplash.com/photo-1596436889106-be35e843f974?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "rating": 4.1,
+      "price": "$31/Night",
+      "facilities": [
+        "Fitness center",
+        "Outdoor pool",
+        "Multiple dining options",
+        "Business center",
+        "Free Wi-Fi"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "The Peninsula",
+      "place_id": 4,
+      "image": "https://images.unsplash.com/photo-1596436889106-be35e843f974?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "rating": 4.2,
+      "price": "$53/Night",
+      "facilities": ["Fitness center", "Outdoor pool", "Restaurant", "Free Wi-Fi"]
+    },
+    {
+      "id": 11,
+      "name": "Nirvana Inn",
+      "place_id": 5,
+      "image": "https://images.unsplash.com/photo-1596436889106-be35e843f974?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "rating": 3.9,
+      "price": "$55/Night",
+      "facilities": [
+        "Garden",
+        "Terrace",
+        "Barbecue facilities",
+        "Shared lounge/TV area",
+        "Free Wi-Fi"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "The Olives",
+      "place_id": 6,
+      "image": "https://images.unsplash.com/photo-1596436889106-be35e843f974?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "rating": 4.2,
+      "price": "$48/Night",
+      "facilities": [
+        "Fitness center",
+        "Outdoor pool",
+        "Multiple dining options",
+        "Business center",
+        "Spa",
+        "Free Wi-Fi"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Bashundhara Resort",
+      "place_id": 1,
+      "image": "https://images.unsplash.com/photo-1596436889106-be35e843f974?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "rating": 4.6,
+      "price": "$45/Night",
+      "facilities": [
+        "Convention center",
+        "Fitness center",
+        "Outdoor pool",
+        "Multiple dining options",
+        "Business center",
+        "Free Wi-Fi"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "The Palace Luxury Resort",
+      "place_id": 2,
+      "image": "https://images.unsplash.com/photo-1596436889106-be35e843f974?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "rating": 4.2,
+      "price": "$37/Night",
+      "facilities": [
+        "Outdoor pool",
+        "Fitness center",
+        "Golf course",
+        "Helipad",
+        "Fine dining restaurant",
+        "Free Wi-Fi"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Sairu Hill Resorts",
+      "place_id": 3,
+      "image": "https://images.unsplash.com/photo-1596436889106-be35e843f974?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "rating": 4.1,
+      "price": "$56/Night",
+      "facilities": [
+        "Outdoor pool",
+        "Fitness center",
+        "Spa",
+        "Tennis court",
+        "Indoor games",
+        "Free Wi-Fi"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Royal Tulip Sea Pearl Beach Resort",
+      "place_id": 4,
+      "image": "https://images.unsplash.com/photo-1596436889106-be35e843f974?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "rating": 4.2,
+      "price": "$49/Night",
+      "facilities": [
+        "Private beach area",
+        "Outdoor pool",
+        "Spa",
+        "Fitness center",
+        "Tennis court",
+        "Free Wi-Fi"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Ratnodweep Resort",
+      "place_id": 5,
+      "image": "https://images.unsplash.com/photo-1596436889106-be35e843f974?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "rating": 4.0,
+      "price": "$50/Night",
+      "facilities": [
+        "Infinity pool",
+        "Spa",
+        "Open-air restaurant",
+        "Beach access",
+        "Free Wi-Fi",
+        "Water sports"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Lake Shore Resort",
+      "place_id": 6,
+      "image": "https://images.unsplash.com/photo-1596436889106-be35e843f974?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "rating": 4.3,
+      "price": "$60/Night",
+      "facilities": [
+        "Infinity pool",
+        "Spa",
+        "Fine dining restaurant",
+        "Fishing trips",
+        "Free Wi-Fi",
+        "Nature trails"
+      ]
+    }
+  ]
